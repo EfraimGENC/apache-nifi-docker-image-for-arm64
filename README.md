@@ -13,6 +13,12 @@
   limitations under the License.
 -->
 
+Forked from [official nifi docker image](https://github.com/apache/nifi/tree/main/nifi-docker/dockerhub) for Apple Silicon M1 arm64
+
+by https://github.com/NurullahCaliskan
+
+---
+
 ## Latest changes
 
 ### 1.14.0
